@@ -1,2 +1,2 @@
-# wildyness
-# free to use
+# wildyness a project for RAGE:MP server.
+# Read LICENSE
