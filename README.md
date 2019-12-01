@@ -1,2 +1,1 @@
-# wildyness is a project for RAGE:MP server.
-# Read LICENSE
+# steal my emotes and ill snap ur neck
